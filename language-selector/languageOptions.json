@@ -1,0 +1,26 @@
+[
+    {   
+        "entityName": "en-CA", 
+        "title": "English, Canadian",
+        "dialogText": "Your device is set to Canadian English! Go there now?",
+        "dialogYes": "Yes, sorry",
+        "dialogNo": "No, sorry",
+        "dialogTitle": "Language"
+    },
+    {
+        "entityName": "en-US", 
+        "title": "English, United States",
+        "dialogYes": "Yes",
+        "dialogNo": "No",
+        "dialogText": "Fellow American: Open the US English content?",
+        "dialogTitle": "Language"
+    },
+    {
+        "entityName": "fr-CA", 
+        "title": "Français, Canadien",
+        "dialogText": "Voulez-vous ouvrir le contenu Canadien Français?",
+        "dialogYes": "Oui",
+        "dialogNo": "Non",
+        "dialogTitle": "La Langue"
+    }
+]
